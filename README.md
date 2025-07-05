@@ -1,5 +1,7 @@
 # Splunk Config Deployment Guide
 
+# Cấu hình Cluster thì dùng server.conf
+
 ## 1. Điều kiện để sử dụng cấu hình này
 
 - **Copy đúng file:**
